@@ -1,7 +1,4 @@
-## FactoryGirl Sandbox
-
-This branch requires a Ruby version in the 2.3.x range. If you need one, run
-`rvm install ruby-2.3.1`.
+## FactoryGirl Intro
 
 To get started, clone down and:
 
@@ -14,4 +11,3 @@ rspec
 
 Refactor the model tests using FactoryGirl. The gem and folder setup is good to
 go, just add the factory files.
-
