@@ -3,7 +3,6 @@
 To get started, clone down and:
 
 ```
-git checkout factory-girl
 bundle install
 rake db:{create,migrate}
 rspec
